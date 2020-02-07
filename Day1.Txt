@@ -1,1 +1,4 @@
 10 points
+DevOps is intersection of Development, QA and TechOps.
+DevOps is a philosophy, cultural change, business process model and tool chain.
+Digitial pitch is intersection of strategy, technology and design with customer desirability, business feasibility and viability at its core.
